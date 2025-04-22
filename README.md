@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there, I'm Muhammad Faizan 👋
 
-<!--
-**mfaizan11/mfaizan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Front-End Developer | 💻 React/Shopify/WordPress | 🎨 UI/UX Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate developer who loves building modern, responsive, and user-friendly web experiences. Whether it’s crafting sleek React applications, customizing Shopify themes, or designing pixel-perfect WordPress sites with Elementor — I enjoy turning ideas into real, working products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 What I Do
+
+🌐 React + Tailwind CSS – Building fast, dynamic, and mobile-friendly websites
+⚙️ Shopify Liquid Customization – Tailoring eCommerce themes to match brand needs
+🧩 WordPress & Elementor – Crafting stunning websites using Astra templates and custom tweaks
+
+🛠️ Tech Stack
+
+React, Tailwind CSS, JavaScript, WordPress, Shopify
+
+📬 Let’s Connect
+
+Portfolio (Coming soon)
+Email: muhammadfaizanakx@gmail.com
+LinkedIn: www.linkedin.com/in/muhammad-faizan-76a024283
+
+Thanks for stopping by! 😊
