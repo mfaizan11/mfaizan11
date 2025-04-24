@@ -2,7 +2,8 @@ Hi there, I'm Muhammad Faizan 👋
 
 🚀 Front-End Developer | 💻 React/Shopify/WordPress | 🎨 UI/UX Enthusiast
 
-Welcome to my GitHub! I'm a passionate developer who loves building modern, responsive, and user-friendly web experiences. Whether it’s crafting sleek React applications, customizing Shopify themes, or designing pixel-perfect WordPress sites with Elementor — I enjoy turning ideas into real, working products.
+Welcome to my GitHub! I'm a passionate developer who loves building modern, responsive, and user-friendly web experiences. Whether it’s crafting sleek React applications, customizing Shopify themes, or designing pixel-perfect WordPress sites with Elementor. I enjoy turning ideas into real, working products.
+
 
 👨‍💻 What I Do
 
@@ -11,6 +12,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building modern, resp
 ⚙️ Shopify Liquid Customization – Tailoring eCommerce themes to match brand needs
 
 🧩 WordPress & Elementor – Crafting stunning websites using Astra templates and custom tweaks
+
 
 🛠️ Tech Stack
 
