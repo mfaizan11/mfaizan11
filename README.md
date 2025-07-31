@@ -1,6 +1,6 @@
 Hi there, I'm Muhammad Faizan 👋
 
-🚀 Front-End Developer | 💻 Next/React/Shopify/WordPress | Javascript/Typescript
+🚀 Full Stack Developer | Next/React/Shopify/WordPress | Javascript/Typescript
 
 Welcome to my GitHub! I'm a passionate developer who loves building modern, responsive, and user-friendly web experiences. Whether it’s crafting sleek React applications, customizing Shopify themes, or designing pixel-perfect WordPress sites with Elementor. I enjoy turning ideas into real, working products.
 
