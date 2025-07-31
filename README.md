@@ -5,13 +5,13 @@ Hi there, I'm Muhammad Faizan 👋
 Welcome to my GitHub! I'm a passionate developer who loves building modern, responsive, and user-friendly web experiences. Whether it’s crafting sleek React applications, customizing Shopify themes, or designing pixel-perfect WordPress sites with Elementor. I enjoy turning ideas into real, working products.
 
 
-👨‍💻 What I Do
+What I Do
 
-🌐 Next/React + Tailwind CSS – Building fast, dynamic, and mobile-friendly websites
+-Next/React + Tailwind CSS – Building fast, dynamic, and mobile-friendly websites
 
-⚙️ Shopify Liquid Customization – Tailoring eCommerce themes to match brand needs
+-Shopify Liquid Customization – Tailoring eCommerce themes to match brand needs
 
-🧩 WordPress & Elementor – Crafting stunning websites using Astra templates and custom tweaks
+-WordPress & Elementor – Crafting stunning websites using Astra templates and custom tweaks
 
 
 🛠️ Tech Stack
