@@ -7,11 +7,11 @@ Welcome to my GitHub! I'm a passionate developer who loves building modern, resp
 
 What I Do
 
--Next/React + Tailwind CSS – Building fast, dynamic, and mobile-friendly websites
+✶ Next/React + Tailwind CSS – Building fast, dynamic, and mobile-friendly websites
 
--Shopify Liquid Customization – Tailoring eCommerce themes to match brand needs
+✶ Shopify Liquid Customization – Tailoring eCommerce themes to match brand needs
 
--WordPress & Elementor – Crafting stunning websites using Astra templates and custom tweaks
+✶ WordPress & Elementor – Crafting stunning websites using Astra templates and custom tweaks
 
 
 🛠️ Tech Stack
