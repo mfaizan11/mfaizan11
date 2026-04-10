@@ -4,6 +4,7 @@ Hi there, I'm Muhammad Faizan 👋
 
 Welcome to my GitHub! I'm a passionate developer who loves building modern, responsive, and user-friendly web experiences. Whether it’s crafting sleek React applications, customizing Shopify themes, or designing pixel-perfect WordPress sites with Elementor. I enjoy turning ideas into real, working products.
 
+Working privately on mfaizan101 😊
 
 What I Do
 
